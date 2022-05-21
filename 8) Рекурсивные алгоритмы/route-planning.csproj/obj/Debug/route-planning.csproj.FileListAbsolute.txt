@@ -1,0 +1,2 @@
+/Users/skarmatsky/Desktop/Курс по C#/8) Рекурсивные алгоритмы/route-planning.csproj/obj/Debug/route-planning.csproj.AssemblyReference.cache
+/Users/skarmatsky/Desktop/Курс по C#/8) Рекурсивные алгоритмы/route-planning.csproj/obj/Debug/route-planning.csproj.CoreCompileInputs.cache
