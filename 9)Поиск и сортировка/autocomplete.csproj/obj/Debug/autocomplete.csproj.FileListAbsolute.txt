@@ -1,0 +1,15 @@
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/bin/Debug/dic/adjectives.txt
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/bin/Debug/dic/nouns.txt
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/bin/Debug/dic/verbs.txt
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/bin/Debug/Autocomplete.exe.config
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/bin/Debug/Autocomplete.exe
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/bin/Debug/Autocomplete.pdb
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/bin/Debug/nunit.framework.dll
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/autocomplete.csproj.AssemblyReference.cache
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/Autocomplete.AutocompleteForm.resources
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/Autocomplete.Properties.Resources.resources
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/autocomplete.csproj.GenerateResource.cache
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/autocomplete.csproj.CoreCompileInputs.cache
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/autocomplete.csproj.CopyComplete
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/Autocomplete.exe
+/Users/skarmatsky/Desktop/Курс по C#/9)Поиск и сортировка/autocomplete.csproj/obj/Debug/Autocomplete.pdb
